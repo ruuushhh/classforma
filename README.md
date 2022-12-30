@@ -1,4 +1,4 @@
 # classforma
 
 You can find annodated columns in comments.
-Also, can console.log then when clicked on save.
+Also, can console.log them when clicked on save.
